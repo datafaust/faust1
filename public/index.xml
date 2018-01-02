@@ -82,8 +82,8 @@ This lets visitors know what sort of response time to expect when they contact y
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
       <guid>/about/</guid>
-      <description> This is Introduction, a minimal scrolling website theme made for Hugo.
-Features  Responsive display on any size screen Smooth fade-in on load with CSS3 Smooth scrolling to page sections from navigation Light and Dark themes Projects section with any number of projects: configurable as a photo gallery, popup with details, or external links Blog section with optionally included Latest Post, on the main page or as a separate section Styled Markdown throughout with support for HighlightJS  </description>
+      <description>This is my site, a place where I publish my work &amp;amp; fun projects. I am the Analytics &amp;amp; Automation Engineer at the Txi &amp;amp; Limousine Commission for the City of New York. It is my job to build out metrics, conduct research on policy, streamline and automate data pipelines &amp;amp; overall explore the data world of the Taxi Industry. Hugo.
+My Skillset  Big data munging Data wrangling and processing Feature analysis and machine learning Data pipeline architecture *adding blah blah Projects section with any number of projects: configurable as a photo gallery, popup with details, or external links Blog section with optionally included Latest Post, on the main page or as a separate section Styled Markdown throughout with support for HighlightJS  *As a city employee I am unauthorized to disclose private information about the industry I work in.</description>
     </item>
     
     <item>
