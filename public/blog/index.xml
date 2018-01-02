@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Nov 2017 12:04:16 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uber &amp; Pals: Who&#39;&#39;s Leading the Industry?</title>
+      <link>/blog/uber-pals-who-s-leading-the-industry/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/uber-pals-who-s-leading-the-industry/</guid>
+      <description>What does our data look like?The objective of this report is to use our open data portal to look at which companies in the taxi for-hire vehicle sector output the most volume of trips over time; by understanding the “top players” in the industry we can establish our reasoning behind the publishing of selective indicators referencing these companies. We leverage the FHV Base Aggregate report on Open Data; below is a sample of what the first 100 rows of that data looks like:</description>
+    </item>
     
     <item>
       <title>Coffee Ipsum</title>
