@@ -1,0 +1,28 @@
+---
+title: Collecting Uber Data
+author: Fausto Lopez
+date: '2018-01-09'
+slug: collecting-uber-data
+categories:
+  - R
+tags:
+  - taxi
+---
+
+
+#The Objective
+```{r}
+
+```
+
+#Sample Points
+```{r}
+
+```
+
+#Using Uber Package in R
+```{r}
+
+```
+
+
