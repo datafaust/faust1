@@ -1,0 +1,39 @@
+---
+title: Raspberry Pi Distance, Swivel and Sensor Measure
+author: Fausto Lopez
+date: '2018-01-09'
+slug: raspberry-pi-distance-swivel-and-sensor-measure
+categories:
+  - Python
+  - Raspberry pi
+tags: []
+---
+
+
+
+#The First Objective 
+
+```{r}
+
+```
+
+
+#Installing the Software
+
+```{r}
+
+```
+
+#Step1: Measure Distance
+
+```{r}
+
+```
+
+#Step2: Swivel
+
+```{r}
+
+```
+
+#Step3: Measure one weather aspect
