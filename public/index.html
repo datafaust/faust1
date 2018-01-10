@@ -160,6 +160,10 @@ crossorigin="anonymous"></script>
                     
                     
                     
+                    
+                    
+                    
+                    
                             
 
 <p>This is <strong>my site,</strong> a place where I publish my work &amp; fun projects. I am the Analytics &amp; Automation Engineer at
@@ -211,17 +215,17 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
                         <div class="card-image">
                             <figure class="image is-3by2">
                                 <a 
-                                    id="projectphotography"
+                                    id="projectdata"
                                     >
-                                    <img src="img/camera.jpg">
+                                    <img src="img/data1.jpg">
                                 </a>
                             </figure>
                         </div>
                         <div class="card-content has-text-centered top-pad">
                                 <a 
-                                    id="projectphotography"
+                                    id="projectdata"
                                     >
-                                    Photography
+                                    Data
                                 </a>
                         </div>
                 </div>
@@ -234,17 +238,17 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
                         <div class="card-image">
                             <figure class="image is-3by2">
                                 <a 
-                                    id="projectdesign"
+                                    id="projectdrones--tech"
                                     >
-                                    <img src="img/plant.jpg">
+                                    <img src="img/drone2.jpg">
                                 </a>
                             </figure>
                         </div>
                         <div class="card-content has-text-centered top-pad">
                                 <a 
-                                    id="projectdesign"
+                                    id="projectdrones--tech"
                                     >
-                                    Design
+                                    Drones &amp; Tech
                                 </a>
                         </div>
                 </div>
@@ -257,22 +261,22 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
                         <div class="card-image">
                             <figure class="image is-3by2">
                                 <a 
-                                    id="projectwriting"
+                                    id="projectfilm"
                                     >
-                                    <img src="img/workday.jpg">
+                                    <img src="img/drone1.jpg">
                                 </a>
                             </figure>
                         </div>
                         <div class="card-content has-text-centered top-pad">
                                 <a 
-                                    id="projectwriting"
+                                    id="projectfilm"
                                     >
-                                    Writing
+                                    Film
                                 </a>
                         </div>
                 </div>
             </div>
-                             
+                                 
     </div>
 </div>
 </div>
@@ -280,16 +284,16 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
 
 
  
-<div class="modal" id="modalphotography">
+<div class="modal" id="modaldata">
     <div class="modal-background"></div>
     <div class="modal-card">
         
         <header class="modal-card-header bottom-pad">
-            <p class="modal-card-title has-text-centered">Photography</p>
+            <p class="modal-card-title has-text-centered">Data</p>
         </header>
         
         
-            <img src="img/camera.jpg" class="img-responsive img-centered">
+            <img src="img/data1.jpg" class="img-responsive img-centered">
         
         
         <section class="modal-card-body markdown">
@@ -302,51 +306,51 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
         </section>
         
     </div>
-    <button class="modal-close is-large" aria-label="close" id="closephotography"></button>
+    <button class="modal-close is-large" aria-label="close" id="closedata"></button>
 </div>
 <script>
-    $('#projectphotography').click(function() {
-        $('#modalphotography').addClass('is-active');
+    $('#projectdata').click(function() {
+        $('#modaldata').addClass('is-active');
     });
-    $('#closephotography').click(function() {
-        $('#modalphotography').removeClass('is-active');
+    $('#closedata').click(function() {
+        $('#modaldata').removeClass('is-active');
     });
 </script>
   
-<div class="modal" id="modaldesign">
+<div class="modal" id="modaldrones--tech">
     <div class="modal-background"></div>
     <div class="modal-card">
         
         <header class="modal-card-header bottom-pad">
-            <p class="modal-card-title has-text-centered">Design</p>
+            <p class="modal-card-title has-text-centered">Drones &amp; Tech</p>
         </header>
         
         
-            <img src="img/plant.jpg" class="img-responsive img-centered">
+            <img src="img/drone2.jpg" class="img-responsive img-centered">
         
         
     </div>
-    <button class="modal-close is-large" aria-label="close" id="closedesign"></button>
+    <button class="modal-close is-large" aria-label="close" id="closedrones--tech"></button>
 </div>
 <script>
-    $('#projectdesign').click(function() {
-        $('#modaldesign').addClass('is-active');
+    $('#projectdrones--tech').click(function() {
+        $('#modaldrones--tech').addClass('is-active');
     });
-    $('#closedesign').click(function() {
-        $('#modaldesign').removeClass('is-active');
+    $('#closedrones--tech').click(function() {
+        $('#modaldrones--tech').removeClass('is-active');
     });
 </script>
   
-<div class="modal" id="modalwriting">
+<div class="modal" id="modalfilm">
     <div class="modal-background"></div>
     <div class="modal-card">
         
         <header class="modal-card-header bottom-pad">
-            <p class="modal-card-title has-text-centered">Writing</p>
+            <p class="modal-card-title has-text-centered">Film</p>
         </header>
         
         
-            <img src="img/workday.jpg" class="img-responsive img-centered">
+            <img src="img/drone1.jpg" class="img-responsive img-centered">
         
         
         <section class="modal-card-body markdown">
@@ -357,17 +361,17 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
         </section>
         
     </div>
-    <button class="modal-close is-large" aria-label="close" id="closewriting"></button>
+    <button class="modal-close is-large" aria-label="close" id="closefilm"></button>
 </div>
 <script>
-    $('#projectwriting').click(function() {
-        $('#modalwriting').addClass('is-active');
+    $('#projectfilm').click(function() {
+        $('#modalfilm').addClass('is-active');
     });
-    $('#closewriting').click(function() {
-        $('#modalwriting').removeClass('is-active');
+    $('#closefilm').click(function() {
+        $('#modalfilm').removeClass('is-active');
     });
 </script>
-                 
+                     
 
 
 <div class="container has-text-centered top-pad">
@@ -390,12 +394,10 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
 
 <h2 class="title is-2 has-text-centered">Latest Post</h2>
      
-    <div class="summary">Jan 2, 2018
-        <h3 class="title is-3 latest-post-title"><a href="/blog/uber-pals-who-s-leading-the-industry/">Uber &amp; Pals: Who&#39;&#39;s Leading the Industry?</a></h3>
+    <div class="summary">Jan 9, 2018
+        <h3 class="title is-3 latest-post-title"><a href="/blog/raspberry-pi-distance-swivel-and-sensor-measure/">Raspberry Pi Distance, Swivel and Sensor Measure</a></h3>
             <div class="markdown">
-            What does our data look like?The objective of this report is to use our open data portal to look at which companies in the taxi for-hire vehicle sector output the most volume of trips over time; by understanding the “top players” in the industry we can establish our reasoning behind the publishing of selective indicators referencing these companies. We leverage the FHV Base Aggregate report on Open Data; below is a sample of what the first 100 rows of that data looks like:
-            
-            <a href="/blog/uber-pals-who-s-leading-the-industry/">...Read More</a>
+            The First ObjectiveInstalling the SoftwareStep1: Measure DistanceStep2: SwivelStep3: Measure one weather aspect
             
             </div>
     </div>
@@ -421,6 +423,10 @@ the Txi &amp; Limousine Commission for the City of New York. It is my job to bui
     <h2 class="title is-2">Contact</h2>
         <div class="markdown">
             
+                
+                
+                
+                
                 
                 
                 

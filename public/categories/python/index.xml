@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Introduction</title>
+    <link>/categories/python/</link>
+    <description>Recent content in Python on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Raspberry Pi Distance, Swivel and Sensor Measure</title>
+      <link>/blog/raspberry-pi-distance-swivel-and-sensor-measure/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/raspberry-pi-distance-swivel-and-sensor-measure/</guid>
+      <description>The First ObjectiveInstalling the SoftwareStep1: Measure DistanceStep2: SwivelStep3: Measure one weather aspect</description>
+    </item>
+    
+  </channel>
+</rss>

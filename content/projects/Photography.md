@@ -1,7 +1,7 @@
 ---
-title: "Photography"
+title: "Data"
 date: 2017-11-13T12:21:21-05:00
-image: "img/camera.jpg"
+image: "img/data1.jpg"
 external_link: ""
 weight: 1
 ---

@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>/blog/collecting-uber-data/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/raspberry-pi-distance-swivel-and-sensor-measure/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/uber-pals-who-s-leading-the-industry/</loc>
     <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url>
@@ -59,7 +69,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,14 +109,26 @@
   </url>
   
   <url>
+    <loc>/categories/python/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/raspberry-pi/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,7 +146,7 @@
   
   <url>
     <loc>/tags/taxi/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
