@@ -53,7 +53,8 @@
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/raspberry-pi-distance-swivel-and-sensor-measure/</guid>
-      <description>The First ObjectiveInstalling the SoftwareStep1: Measure DistanceStep2: SwivelStep3: Measure one weather aspect</description>
+      <description>The Overall ProjectsI’ve built a couple of drones over the last year and I’ve been wanting to expand the larger one’s utility beyond flight and gps modes. Specifically I want to add sensors to collect weather data along with sensors that will help with collision avoidance.
+I’ve recently been working a lot with the raspberry pi, specifically the zero w and as it’s small and light the pi makes a great onboard computer for a quadcopter.</description>
     </item>
     
     <item>
