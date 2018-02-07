@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/post/streaming-webcam-video-through-r/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <loc>/blog/downloading-extracting-video-frames-in-r-python/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/testing/</loc>
+    <loc>/post/streaming-webcam-video-through-r/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,12 +79,18 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/computer-vision/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

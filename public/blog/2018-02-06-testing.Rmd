@@ -1,0 +1,15 @@
+---
+title: testing
+author: ''
+date: '2018-02-06'
+slug: testing
+categories: []
+tags: []
+---
+
+
+
+```{r}
+print("testing")
+```
+

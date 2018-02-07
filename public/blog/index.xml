@@ -6,18 +6,18 @@
     <description>Recent content in Blogs on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>testing</title>
-      <link>/blog/testing/</link>
-      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      <title>Downloading &amp; Extracting Video Frames in R &amp; Python</title>
+      <link>/blog/downloading-extracting-video-frames-in-r-python/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/testing/</guid>
-      <description>print(&amp;quot;testing&amp;quot;)## [1] &amp;quot;testing&amp;quot;</description>
+      <guid>/blog/downloading-extracting-video-frames-in-r-python/</guid>
+      <description>Video AnalyticsI had a recent project proposal in which I was to do something very interesting with data and rather than download some data set to work with I thought it be fun to work on something new. For some time I have been interested in getting into computer vision and now that I build and fly drones merging the two just seems inevitable. So I spent the last weekend learning how to work with this, most of it in python and then a little bit of it in R for fun.</description>
     </item>
     
     <item>
