@@ -14,7 +14,7 @@ tags: []
 
 I've built a couple of drones over the last year and I've been wanting to expand the larger one's utility beyond flight and gps modes. Specifically I want to add sensors to collect weather data along with sensors that will help with collision avoidance.
 
-```{r, warning = F, echo = F}
+```{r}
 #insert raspberry pi image
 knitr::include_graphics("C:/Users/fausto/Documents/R/win-library/3.4/faust1/public/img/pi_zero.jpg")
 ```

@@ -27,7 +27,7 @@
       
       <guid>/blog/raspberry-pi-distance-swivel-and-sensor-measure/</guid>
       <description>The Overall ProjectsI’ve built a couple of drones over the last year and I’ve been wanting to expand the larger one’s utility beyond flight and gps modes. Specifically I want to add sensors to collect weather data along with sensors that will help with collision avoidance.
-I’ve recently been working a lot with the raspberry pi, specifically the zero w and as it’s small and light the pi makes a great onboard computer for a quadcopter.</description>
+#insert raspberry pi imageknitr::include_graphics(&amp;quot;C:/Users/fausto/Documents/R/win-library/3.4/faust1/public/img/pi_zero.jpg&amp;quot;)I’ve recently been working a lot with the raspberry pi, specifically the zero w and as it’s small and light the pi makes a great onboard computer for a quadcopter.</description>
     </item>
     
     <item>
@@ -75,6 +75,15 @@ I’ve recently been working a lot with the raspberry pi, specifically the zero 
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/blog/2018-02-06-downloading-and-extracting-frames-in-python-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-02-06-downloading-and-extracting-frames-in-python-r/</guid>
+      <description>Downloading and Extracting Frames in Python &amp;amp; Rcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>
