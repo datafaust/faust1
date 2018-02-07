@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>Streaming Webcam Video Through R</title>
+      <link>/post/streaming-webcam-video-through-r/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/streaming-webcam-video-through-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>/blog/testing/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/testing/</guid>
+      <description>print(&amp;quot;testing&amp;quot;)## [1] &amp;quot;testing&amp;quot;</description>
+    </item>
+    
+    <item>
       <title>Collecting Uber Data</title>
       <link>/blog/collecting-uber-data/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>

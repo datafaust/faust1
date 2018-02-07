@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Streaming Webcam Video Through R</title>
+      <link>/post/streaming-webcam-video-through-r/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/streaming-webcam-video-through-r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uber &amp; Pals: Who&#39;s Leading the Industry?</title>
