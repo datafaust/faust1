@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Downloading and Extracting Frames in Python &amp; R</title>
+      <link>/blog/downloading-and-extracting-frames-in-python-r/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/downloading-and-extracting-frames-in-python-r/</guid>
+      <description>Video AnalyticsI had a recent project proposal in which I was to do something very interesting with data and rather than download some data set to work with I thought it be fun to work on something new. For some time I have been interested in getting into computer vision and now that I build and fly drones merging the two just seems inevitable. So I spent the last weekend learning how to work with this, most of it in python and then a little bit of it in R for fun.</description>
+    </item>
+    
+    <item>
       <title>Collecting Uber Data</title>
       <link>/blog/collecting-uber-data/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
@@ -130,15 +139,6 @@ My Skillset  Big data munging Data wrangling and processing Feature analysis and
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/blog/2018-02-06-downloading-and-extracting-frames-in-python-r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2018-02-06-downloading-and-extracting-frames-in-python-r/</guid>
-      <description>Downloading and Extracting Frames in Python &amp;amp; Rcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>
