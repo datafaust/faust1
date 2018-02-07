@@ -113,29 +113,29 @@ Since we already have the video downloaded in R I won't bring it in again python
 
 
 ```{r, echo = T, warning=F, eval=F, error=F}
- # import cv2
- # import numpy as np
- # import os
- # 
- # 
- # #set directory
- # os.chdir("C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\videos\\drones")
- # 
- # #pull in video
- # cap = cv2.VideoCapture("Video_1.avi")
- # count = 0
- # #success =T
- # 
- # #loop through video and pull frames for saving
- # while True:
- # 
- #     
- #     ret, img = cap.read()
- #     print 'Read a new frame: ', ret
- #     gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
- #     os.chdir("C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\fl_new_pics")
- #     cv2.imwrite("frame%d.jpg" % count, img)     # save frame as JPEG file
- #     count += 1
+ import cv2
+ import numpy as np
+ import os
+ 
+ 
+ #set directory
+ os.chdir("C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\videos\\drones")
+ 
+ #pull in video
+ cap = cv2.VideoCapture("Video_1.avi")
+ count = 0
+ #success =T
+ 
+ #loop through video and pull frames for saving
+ while True:
+ 
+     
+     ret, img = cap.read()
+     print 'Read a new frame: ', ret
+     gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+     os.chdir("C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\fl_new_pics")
+     cv2.imwrite("frame%d.jpg" % count, img)     # save frame as JPEG file
+     count += 1
 
 ```
 

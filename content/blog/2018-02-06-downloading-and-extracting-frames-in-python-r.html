@@ -120,28 +120,28 @@ list.files() </code></pre>
 <div id="how-about-python" class="section level1">
 <h1>How about Python?</h1>
 <p>Since we already have the video downloaded in R I won’t bring it in again python. Instead I will run through how to pull the frames and save them. You can run the following:</p>
-<pre class="r"><code> # import cv2
- # import numpy as np
- # import os
- # 
- # 
- # #set directory
- # os.chdir(&quot;C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\videos\\drones&quot;)
- # 
- # #pull in video
- # cap = cv2.VideoCapture(&quot;Video_1.avi&quot;)
- # count = 0
- # #success =T
- # 
- # #loop through video and pull frames for saving
- # while True:
- # 
- #     
- #     ret, img = cap.read()
- #     print &#39;Read a new frame: &#39;, ret
- #     gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
- #     os.chdir(&quot;C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\fl_new_pics&quot;)
- #     cv2.imwrite(&quot;frame%d.jpg&quot; % count, img)     # save frame as JPEG file
- #     count += 1</code></pre>
+<pre class="r"><code> import cv2
+ import numpy as np
+ import os
+ 
+ 
+ #set directory
+ os.chdir(&quot;C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\videos\\drones&quot;)
+ 
+ #pull in video
+ cap = cv2.VideoCapture(&quot;Video_1.avi&quot;)
+ count = 0
+ #success =T
+ 
+ #loop through video and pull frames for saving
+ while True:
+ 
+     
+     ret, img = cap.read()
+     print &#39;Read a new frame: &#39;, ret
+     gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+     os.chdir(&quot;C:\\Users\\fausto\\Documents\\incubator_img_recog\\plane_classifier\\drone_proj\\fl_new_pics&quot;)
+     cv2.imwrite(&quot;frame%d.jpg&quot; % count, img)     # save frame as JPEG file
+     count += 1</code></pre>
 <p>The code will kick and error at the end as it runs out of frames, you can adjust to get rid of that. And there it is! A few lines of code and you can already extract frames from videos. In one of my next posts I’ll go over how to use some of that picture data to train a basic Haarcascade so we can detect specific objects in videos.</p>
 </div>
