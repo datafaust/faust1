@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Extracting Images from the Internet with R</title>
+      <link>/blog/extracting-images-from-the-internet-with-r/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/extracting-images-from-the-internet-with-r/</guid>
+      <description>Why build an image database?In a previous post I went over how to pull in video data and parse out frames for processing. That’s really useful for pulling in the data you ultimately want to screen, but at times there is also a need for having other images. You may want to classify certain objects as they appear in other videos, or build Haarcascades with specific images. Regardless you’ll need to access images.</description>
+    </item>
+    
+    <item>
       <title>Streaming Webcam Video Through R</title>
       <link>/post/streaming-webcam-video-through-r/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
